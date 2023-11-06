@@ -27,5 +27,5 @@ Frontend for Ricochet game
 # How to run
 - In your development environment, open directory what you cloned and debug and run.
 
-### [Reference blog](https://codingapple.com/unit/flutter-install-on-windows-and-mac/)
+#### See also [Reference blog](https://codingapple.com/unit/flutter-install-on-windows-and-mac/)
 
