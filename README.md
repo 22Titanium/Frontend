@@ -6,7 +6,7 @@ Frontend for Ricochet game
 2. [Install Flutter sdk](https://docs.flutter.dev/release/archive?tab=windows) and unzip (for now, working at version 3.13.0)
 3. [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIjMKU0MyvggMV0CNgCh2Y6geyEAAYASAAEgLWk_D_BwE&gclsrc=aw.ds&hl=ko) (You don't have to install android studio if you want to use vscode instead of android studio. Skip below instruction 4 and 5)
 4. Install extension **Flutter** in Android Studio
-5. Install SDK Manager![image](https://github.com/22Titanium/Frontend/assets/71145347/39de70c3-552d-4f1e-b8be-3bd12310520d)
+5. Install SDK Manager ![image](https://github.com/22Titanium/Frontend/assets/71145347/39de70c3-552d-4f1e-b8be-3bd12310520d)
    
 # If you want VS code instead of Android Studio
 1. Install extension **Flutter** in Visual studio code
