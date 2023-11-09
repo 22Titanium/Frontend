@@ -59,12 +59,12 @@ class _MainPageState extends State<MainPage> {
   var log = Logger();
 
   void _makeNewRoom(){
-    log.d("make a new room");
+    log.d("A new room is created");
     // To be implement ...
   }
 
   void _enterRoom(int index){
-    log.d("enter to room");
+    log.d("Entering room is succeed");
     // To be implement ...
   }
 
