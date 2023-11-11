@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:frontend/Container/conn_http.dart';
 import 'package:logger/logger.dart';
+
+import 'package:dio/dio.dart';
 
 void main() {
   runApp(const MyApp());
@@ -57,9 +60,12 @@ class MainPage extends StatefulWidget {
 
 class _MainPageState extends State<MainPage> {
   var log = Logger();
+  ConnHttp connHttp = ConnHttp();
 
-  void _makeNewRoom(){
+  Future<void> _makeNewRoom() async {
     log.d("A new room is created");
+  
+    final response = await connHttp.request('GET', '', null);  // test line for http connection
     // To be implement ...
   }
 
